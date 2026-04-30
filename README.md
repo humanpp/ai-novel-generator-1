@@ -6,7 +6,7 @@
 
 特别感谢 **Xiaomi Mimo** 慷慨提供的 [**2 亿 Token** ](https://100t.xiaomimimo.com/)额度支持（1天已经干完了）。  
 没有这笔“巨款”，代码根本跑不起来。衷心感谢！
-
+![Demo演示3](https://github.com/humanpp/ai-novel-generator-demo/blob/main/assets/Snipaste_2026-04-30_19-31-56.png)
 ---
 
 ## ⚠️ 已知不足（因为 Token 用完了）
@@ -27,7 +27,6 @@ Token 额度耗尽，下列问题只能遗憾留待未来慢慢修补：
 ---
 ![Demo演示1](https://github.com/humanpp/ai-novel-generator-demo/blob/main/assets/Snipaste_2026-04-30_19-09-53.png)
 ![Demo演示2](https://github.com/humanpp/ai-novel-generator-demo/blob/main/assets/Snipaste_2026-04-30_19-11-15.png)
-![Demo演示3](https://github.com/humanpp/ai-novel-generator-demo/blob/main/assets/Snipaste_2026-04-30_19-31-56.png)
 ---
 
 ## 功能特性
